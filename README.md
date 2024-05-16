@@ -1,5 +1,5 @@
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=enespatir07" align = "left" width = "50%" />
-<img src = "https://leetcard.jacoblin.cool/enespatir07?ext=heatmap"  align = "right" width = "50%"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=enespatir07" align = "left" width = "40%" />
+<img src = "https://leetcard.jacoblin.cool/enespatir07?ext=heatmap"  align = "right" width = "55%"/>
 
 <!--
 **enespatir07/enespatir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
