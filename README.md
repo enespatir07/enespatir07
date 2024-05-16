@@ -1,8 +1,4 @@
-<div style="text-align: center; font-weight: bold;">
-  <a style = "text-align:center">
-      Hi, I'm Enes 👋
-    <a>
-</div>
+<a align = "left" width="40%"> Hi I'm Enes 👋<a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enespatir07" align="left" width="40%" />
 <img src="https://leetcard.jacoblin.cool/enespatir07?ext=heatmap" align="right" width="55%" />
