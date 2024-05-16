@@ -1,5 +1,7 @@
 <div style="text-align: center; font-weight: bold;">
-  Hi, I'm Enes 👋
+  <a style = "text-align:center">
+      Hi, I'm Enes 👋
+    <a>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enespatir07" align="left" width="40%" />
