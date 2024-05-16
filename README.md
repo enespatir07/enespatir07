@@ -1,5 +1,5 @@
 Hi, I'm Enes 👋 
-<img/>
+<br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=enespatir07" align = "left" width = "40%" />
 <img src = "https://leetcard.jacoblin.cool/enespatir07?ext=heatmap"  align = "right" width = "55%"/>
 
