@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://leetcard.jacoblin.cool/enespatir07?ext=heatmap)
 
 <!--
